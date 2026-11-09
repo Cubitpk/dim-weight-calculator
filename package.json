@@ -1,0 +1,15 @@
+{
+  "name": "@cubitpack/dim-weight-calculator",
+  "version": "1.0.0",
+  "description": "Zero-dependency USPS, UPS & FedEx Dimensional (DIM) Weight and Inside-to-Outside Custom Box Allowance Calculator by CubitPack.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "homepage": "https://cubitpack.com/tools/dimensional-weight-calculator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cubitpk/dim-weight-calculator.git"
+  },
+  "keywords": ["packaging", "dimensional-weight", "dim-weight", "dieline", "corrugated-box", "ecommerce", "shipping-calculator", "cubitpack"],
+  "author": "CubitPack LLC <hi@cubitpack.com> (https://cubitpack.com)",
+  "license": "MIT"
+}
